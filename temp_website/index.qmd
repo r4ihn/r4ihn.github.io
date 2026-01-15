@@ -1,11 +1,36 @@
 ---
-title: "temp_website"
+title: "Raihan's Website"
+author: "Raihan Ismail"
 ---
 
-This is a Quarto website.
+# About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Raihan, I am currently a student in Singapore Institute of Technology (SIT) pursuing a Bachelor (Hons) in Applied Computing with a specialisation in Financial Technology.
 
-```{r}
-1 + 1
-```
+## My hobbies
+
+In my free time, I like to ride my road bike (which is a Seka Exceed RDC by the way!) and also taking care of my cat named Jebat Tobby (short for Toblerone). <br>
+
+I also like to spend my time doing personal projects to up skill myself in the world of technology by programming and adding it to a repository on [Github](https://github.com/r4ihn)!<br>
+
+Additionally, I love to tinker around with electronics and occasionally short circuit something.
+
+### Programming Languages
+
+-   Python
+
+-   C
+
+-   Java
+
+-   R
+
+-   CSS
+
+-   HTML
+
+## Here are some pictures of cats
+
+![DJ Cat](C:/Users/Raiha/OneDrive/Pictures/dj%20cat.jpg){width="171"} <br>
+
+![Here is a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg){width="171"} <br>

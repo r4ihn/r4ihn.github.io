@@ -3,20 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Raihan's Website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: My Projects
+      - href: Data_Visualisations.qmd
+        text: Data Visualisations
+      - href: reflections.qmd
+        text: Reflections
+      
+        
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - darkly
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 

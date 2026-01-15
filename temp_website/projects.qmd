@@ -1,0 +1,21 @@
+---
+title: "My Final Year Project (FYP)"
+---
+
+# What did I do for my FYP?
+
+For my Final Year Project (FYP), I was tasked to create a miniature version of the B747-400 Krueger and Fowler flaps systems inclusive of the cockpit mechanism to control the flaps. Additionally, I also created a working power supply system to power the entire setup. <br>
+
+# How did I do it?
+
+As I was attached to Lufthansa Technik, I had instructors who were previously Aircraft Maintainence Engineers (LAME) whom would assist me whenever I had trouble. I had to plan the wiring, the schematics for mechanical parts and how to build them to specification. <br>
+
+# What did I learn?
+
+I learnt to be more patient and detail-oriented as I had to ensure that every part was built to specification and that the wiring was done correctly to avoid any short circuits. I also learnt how to use various tools and software such as CAD software for designing parts and simulation software for testing the electrical systems. <br>
+
+# Photos
+
+This is the miniature flap mechanism of the B747. ![](FYP%20project/Flaps.jpg){width="400"}
+
+Fully assembled on board controls for the flap mechanism. ![](FYP%20project/on%20board%20controls.jpg){width="400"}

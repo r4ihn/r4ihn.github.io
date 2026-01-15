@@ -1,0 +1,11 @@
+---
+title: "Data_Visualisation"
+format: html
+---
+
+# My data visualisation work
+In Polytechnic, I studied Aerospace Engineering where I had to be proficient in calculating Thermodynamics and using computer software to design and test aircraft parts for their aerodynamic properties. One of the softwares that I used was CFD (Computational Fluid Dynamics) software which would simulate airflow over a 3D model of an aircraft part. The software would then generate data which I would then have to visualise using graphs and charts to present my findings.
+
+## Here are some examples of my data visualisation work
+Shown below is a velocity vector plot that would showcase the turbulence and the flow of air over an balloon shape.
+![Velocity Vector plot](Data Visualisation/aerodynamics.jpg){width="600"} <br>
