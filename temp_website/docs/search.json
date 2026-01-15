@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Raihan’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Raihan, I am currently a student in Singapore Institute of Technology (SIT) pursuing a Bachelor (Hons) in Applied Computing with a specialisation in Financial Technology.\n\n\nIn my free time, I like to ride my road bike (which is a Seka Exceed RDC by the way!) and also taking care of my cat named Jebat Tobby (short for Toblerone). \nI also like to spend my time doing personal projects to up skill myself in the world of technology by programming and adding it to a repository on Github!\nAdditionally, I love to tinker around with electronics and occasionally short circuit something.\n\n\n\nPython\nC\nJava\nR\nCSS\nHTML"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#my-hobbies",
+    "href": "index.html#my-hobbies",
+    "title": "Raihan’s Website",
+    "section": "",
+    "text": "In my free time, I like to ride my road bike (which is a Seka Exceed RDC by the way!) and also taking care of my cat named Jebat Tobby (short for Toblerone). \nI also like to spend my time doing personal projects to up skill myself in the world of technology by programming and adding it to a repository on Github!\nAdditionally, I love to tinker around with electronics and occasionally short circuit something.\n\n\n\nPython\nC\nJava\nR\nCSS\nHTML"
+  },
+  {
+    "objectID": "index.html#how-i-look-like",
+    "href": "index.html#how-i-look-like",
+    "title": "Raihan’s Website",
+    "section": "",
+    "text": "This is me"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Final Year Project (FYP)",
+    "section": "",
+    "text": "What did I do for my FYP?\nFor my Final Year Project (FYP), I was tasked to create a miniature version of the B747-400 Krueger and Fowler flaps systems inclusive of the cockpit mechanism to control the flaps. Additionally, I also created a working power supply system to power the entire setup. \n\n\nHow did I do it?\nAs I was attached to Lufthansa Technik, I had instructors who were previously Aircraft Maintainence Engineers (LAME) whom would assist me whenever I had trouble. I had to plan the wiring, the schematics for mechanical parts and how to build them to specification. \n\n\nWhat did I learn?\nI learnt to be more patient and detail-oriented as I had to ensure that every part was built to specification and that the wiring was done correctly to avoid any short circuits. I also learnt how to use various tools and software such as CAD software for designing parts and simulation software for testing the electrical systems. \n\n\nPhotos\nThis is the miniature flap mechanism of the B747. \nFully assembled on board controls for the flap mechanism. \nFully assembled interior of the power supply."
   }
 ]
