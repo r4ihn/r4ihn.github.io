@@ -29,8 +29,6 @@ Additionally, I love to tinker around with electronics and occasionally short ci
 
 -   HTML
 
-## Here are some pictures of cats
-
-![DJ Cat](C:/Users/Raiha/OneDrive/Pictures/dj%20cat.jpg){width="171"} <br>
+## Here is a picture of cat
 
 ![Here is a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg){width="171"} <br>
