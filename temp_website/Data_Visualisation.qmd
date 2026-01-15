@@ -8,4 +8,10 @@ In Polytechnic, I studied Aerospace Engineering where I had to be proficient in 
 
 ## Here are some examples of my data visualisation work
 Shown below is a velocity vector plot that would showcase the turbulence and the flow of air over an balloon shape.
+
+The tiny black arrows represent the direction of the airflow. You can see them splitting around the nose and smoothly rejoining at the tail.
+
+At the entrance of the teardrop shape, the flow of wind is blue which is slower. As it passes over the wing/constriction, it turns green which means that the air is moving faster due to the Venturi effect.
+
+The blue colour at the nose 
 ![Velocity Vector plot](Data Visualisation/aerodynamics.jpg){width="600"} <br>

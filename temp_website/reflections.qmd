@@ -1,5 +1,19 @@
 ---
-title: "reflections"
+title: "Reflections"
 format: html
 ---
 
+# How GenAI helped me in my workflow
+In my workflow, I have found several uses for Generative AI (GenAI) that have significantly enhanced my productivity and creativity. Here are some of the key applications:
+
+<ul>
+<li><em>Assist in explaining my CFD</em> I asked GenAI was to help me explain the velocity vector plot that I created during my data visualisation work. It provided a clear and concise explanation of the Venturi effect and how it relates to the airflow over the teardrop shape.</li>
+
+# Benefits I noticed
+<li><em>Code generation</em> I used GenAI to help me generate code snippets for my personal projects. This saved me time and effort, allowing me to focus on other aspects of my projects.</li>
+
+# Challenges I faced
+<li><em>Idea generation</em> I used GenAI to brainstorm ideas for my personal projects. It provided me with a variety of suggestions that I could explore further.</li>
+
+# How I might use GenAI in future study or work
+<li><em>Learning new concepts</em> I used GenAI to help me understand new concepts in programming and data analysis. It provided explanations and examples that made it easier for me to grasp complex topics.</li>

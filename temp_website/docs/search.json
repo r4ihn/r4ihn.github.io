@@ -32,6 +32,27 @@
     "href": "projects.html",
     "title": "My Final Year Project (FYP)",
     "section": "",
-    "text": "What did I do for my FYP?\nFor my Final Year Project (FYP), I was tasked to create a miniature version of the B747-400 Krueger and Fowler flaps systems inclusive of the cockpit mechanism to control the flaps. Additionally, I also created a working power supply system to power the entire setup. \n\n\nHow did I do it?\nAs I was attached to Lufthansa Technik, I had instructors who were previously Aircraft Maintainence Engineers (LAME) whom would assist me whenever I had trouble. I had to plan the wiring, the schematics for mechanical parts and how to build them to specification. \n\n\nWhat did I learn?\nI learnt to be more patient and detail-oriented as I had to ensure that every part was built to specification and that the wiring was done correctly to avoid any short circuits. I also learnt how to use various tools and software such as CAD software for designing parts and simulation software for testing the electrical systems. \n\n\nPhotos\nThis is the miniature flap mechanism of the B747. \nFully assembled on board controls for the flap mechanism. \nFully assembled interior of the power supply."
+    "text": "What did I do for my FYP?\nFor my Final Year Project (FYP), I was tasked to create a miniature version of the B747-400 Krueger and Fowler flaps systems inclusive of the cockpit mechanism to control the flaps. Additionally, I also created a working power supply system to power the entire setup. \n\n\nHow did I do it?\nAs I was attached to Lufthansa Technik, I had instructors who were previously Aircraft Maintainence Engineers (LAME) whom would assist me whenever I had trouble. I had to plan the wiring, the schematics for mechanical parts and how to build them to specification. \n\n\nWhat did I learn?\nI learnt to be more patient and detail-oriented as I had to ensure that every part was built to specification and that the wiring was done correctly to avoid any short circuits. I also learnt how to use various tools and software such as CAD software for designing parts and simulation software for testing the electrical systems. \n\n\nPhotos\nThis is the miniature flap mechanism of the B747. \nFully assembled on board controls for the flap mechanism."
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "reflections",
+    "section": "",
+    "text": "How GenAI helped me in my workflow\nIn my workflow, I have found several uses for Generative AI (GenAI) that have significantly enhanced my productivity and creativity. Here are some of the key applications:\n\n\nAssist in explaining my CFD I asked GenAI was to help me explain the velocity vector plot that I created during my data visualisation work. It provided a clear and concise explanation of the Venturi effect and how it relates to the airflow over the teardrop shape.\n\n\n\nBenefits I noticed\n\nCode generation I used GenAI to help me generate code snippets for my personal projects. This saved me time and effort, allowing me to focus on other aspects of my projects.\n\n\n\nChallenges I faced\n\nIdea generation I used GenAI to brainstorm ideas for my personal projects. It provided me with a variety of suggestions that I could explore further.\n\n\n\nHow I might use GenAI in future study or work\n\nLearning new concepts I used GenAI to help me understand new concepts in programming and data analysis. It provided explanations and examples that made it easier for me to grasp complex topics."
+  },
+  {
+    "objectID": "Data_Visualisation.html",
+    "href": "Data_Visualisation.html",
+    "title": "Data_Visualisation",
+    "section": "",
+    "text": "In Polytechnic, I studied Aerospace Engineering where I had to be proficient in calculating Thermodynamics and using computer software to design and test aircraft parts for their aerodynamic properties. One of the softwares that I used was CFD (Computational Fluid Dynamics) software which would simulate airflow over a 3D model of an aircraft part. The software would then generate data which I would then have to visualise using graphs and charts to present my findings.\n\n\nShown below is a velocity vector plot that would showcase the turbulence and the flow of air over an balloon shape.\nThe tiny black arrows represent the direction of the airflow. You can see them splitting around the nose and smoothly rejoining at the tail.\nAt the entrance of the teardrop shape, the flow of wind is blue which is slower. As it passes over the wing/constriction, it turns green which means that the air is moving faster due to the Venturi effect.\nThe blue colour at the nose"
+  },
+  {
+    "objectID": "Data_Visualisation.html#here-are-some-examples-of-my-data-visualisation-work",
+    "href": "Data_Visualisation.html#here-are-some-examples-of-my-data-visualisation-work",
+    "title": "Data_Visualisation",
+    "section": "",
+    "text": "Shown below is a velocity vector plot that would showcase the turbulence and the flow of air over an balloon shape.\nThe tiny black arrows represent the direction of the airflow. You can see them splitting around the nose and smoothly rejoining at the tail.\nAt the entrance of the teardrop shape, the flow of wind is blue which is slower. As it passes over the wing/constriction, it turns green which means that the air is moving faster due to the Venturi effect.\nThe blue colour at the nose"
   }
 ]
